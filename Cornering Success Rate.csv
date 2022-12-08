@@ -1,13 +1,13 @@
-﻿Sensor,Angle,Cornering Success Rate,
-DN2+4,45°,9,
-DN2+4,90°,10,
-DN2+4,135°,10,
-DN2+4,180°,9,
-BL+BR,45°,7,
-BL+BR,90°,6,
-BL+BR,135°,7,
-BL+BR,180°,5,
-DN2+4 + 1+5,45°,10,
-DN2+4 + 1+5,90°,10,
-DN2+4 + 1+5,135°,10,
-DN2+4 + 1+5,180°,9,
+﻿Sensor,Angle,Completion of Course
+DN2 + DN4,45°,9
+DN2 + DN4,90°,10
+DN2 + DN4,135°,10
+DN2 + DN4,180°,9
+BL + BR,45°,7
+BL + BR,90°,6
+BL + BR,135°,7
+BL + BR,180°,5
+DN2 + DN4 Distance + DN1 + DN5 Turning,45°,10
+DN2 + DN4 Distance + DN1 + DN5 Turning,90°,10
+DN2 + DN4 Distance + DN1 + DN5 Turning,135°,10
+DN2 + DN4 Distance + DN1 + DN5 Turning,180°,9
