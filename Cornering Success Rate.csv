@@ -1,17 +1,17 @@
 ﻿Sensor,Angle,Completion of Course
-DN2 + DN4,45°,9
-DN2 + DN4,90°,10
-DN2 + DN4,135°,10
-DN2 + DN4,180°,9
-BL + BR,45°,7
-BL + BR,90°,6
-BL + BR,135°,7
-BL + BR,180°,5
-DN2 + DN4 Distance + DN1 + DN5 Turning,45°,10
-DN2 + DN4 Distance + DN1 + DN5 Turning,90°,10
-DN2 + DN4 Distance + DN1 + DN5 Turning,135°,10
-DN2 + DN4 Distance + DN1 + DN5 Turning,180°,9
-BL + BR Distance + DN2 + DN4 Turning,45°,7
-BL + BR Distance + DN2 + DN4 Turning,90°,5
-BL + BR Distance + DN2 + DN4 Turning,135°,4
-BL + BR Distance + DN2 + DN4 Turning,180°,2
+C3,45°,9
+C3,90°,10
+C3,135°,10
+C3,180°,9
+C4,45°,7
+C4,90°,6
+C4,135°,7
+C4,180°,5
+C2,45°,10
+C2,90°,10
+C2,135°,10
+C2,180°,9
+C5,45°,7
+C5,90°,5
+C5,135°,4
+C5,180°,2
